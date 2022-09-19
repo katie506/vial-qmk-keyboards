@@ -1,0 +1,16 @@
+{
+    "name": "5buttons",
+    "vendorId": "0xEEEE",
+    "productId": "0x2019",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 5
+    },
+    "layouts": {
+        "keymap": [
+            ["0,0","0,1","0,2","0,3","0,4"]
+
+        ]
+    }
+}

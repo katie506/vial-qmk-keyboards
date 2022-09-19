@@ -1,0 +1,21 @@
+{
+    "name": "4buttons",
+    "vendorId": "0xEEEE",
+    "productId": "0x2022",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap": 
+        [
+          [
+            "0,0",
+            "0,1",
+            "0,2",
+            "0,3"
+          ]
+          ]
+    }
+}

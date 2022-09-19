@@ -1,0 +1,26 @@
+{
+    "name": "3btn1switch",
+    "vendorId": "0xEEEE",
+    "productId": "0x2022",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap": 
+        [
+          [
+            "0,0",
+            "0,1",
+            "0,2",
+            {
+              "x": 0.5,
+              "w": 0.75,
+              "h": 0.75
+            },
+            "0,3"
+          ]
+          ]
+    }
+}

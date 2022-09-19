@@ -1,0 +1,15 @@
+{
+    "keyboard_name": "2buttons",
+    "url": "https://github.com/katie506",
+    "maintainer": "Katie Huber",
+    "width": 2,
+    "height": 1,
+    "layouts": {
+      "LAYOUT_h": {
+        "layout": [
+          {"label": "K01", "x":0, "y":0}, 
+          {"label": "K02", "x":1, "y":0}
+        ]
+      }
+    }
+  }
