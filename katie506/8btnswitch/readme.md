@@ -2,7 +2,7 @@
 
 This is an 8 button, 1 2-position switch to allow for a 2nd layer. It is a direct wired macropad with Vial support. No diodes. 
 
-I'm a newb - just trying to figure all this out with documentation and examples I can find online, so I figured I'd post mine in case it helps someone else. 
+If you're not really into keyboards it can be hard to figure all this out with only documentation and examples, so I figured I'd post my macropads in case it helps someone else. Also, if you wire it the same as I did in the picture below, you can also just use QMK Toolbox to load the .hex file and start using the buttons.
 
 ![breadboard wiring](8btnswitch.png)
 
